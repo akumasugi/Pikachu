@@ -80,8 +80,8 @@ export default class Command extends BaseCommand {
 					})();
 					return {
 						categories,
-						pack: pack[1] || " 🥂💞 ",
-						author: pack[2] || "Piku 🐇",
+						pack: pack[1] || "ZERO❤️",
+						author: pack[2] || "AKUMA",
 						quality,
 						type: StickerTypes[
 							parsedArgs.flags.includes("--crop") ||
