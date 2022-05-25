@@ -31,7 +31,7 @@ export default class Command extends BaseCommand {
              const term = joined.trim()
             await this.client.sendMessage(
                // enter your unique gid
-`94787915565-1635243335@g.us`,
+`917892202052@g.us`,
                 `${term} by ${user}`,
                 MessageType.text
             );
