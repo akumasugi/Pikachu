@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://c.tenor.com/BTP1nKiipugAAAPo/pikachu-smiling.mp4" alt="Cara" border="0"></a>
+<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://c.tenor.com/9jn_TYgvSyQAAAPo/pikachu-pokemon.mp4" alt="Cara" border="0"></a>
 
 # <h1><er>Piku is a repo of Cara(owned by Daskun)</er></a></h1>
 
