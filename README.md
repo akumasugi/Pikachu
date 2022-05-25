@@ -7,7 +7,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://gcdnb.pbrd.co/images/caVqrqnHr2LZ.jpg)](https://heroku.com/deploy?template=https://github.com/thinker33/piku3)
+[![Deploy](https://i.ibb.co/tsSH1zr/2e4b84fe65cf70567da9cd719259c436.jpg)](https://heroku.com/deploy?template=https://github.com/akumasugi/Pikachu)
 
 </div>
 <div align="center">
