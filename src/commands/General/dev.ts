@@ -38,7 +38,7 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─️⌜COMMANDS FOR MODS⌝
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: PIKU
+│⋊ ɴᴀᴍᴇ: Pikachu⚡
 ╰────────────┘                            \n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -54,7 +54,7 @@ export default class Command extends BaseCommand {
 │   ©️ Synthesized Infinity Botto
 └────────────┈⁂
 ${this.client.config.prefix}eval this.client.banUser(" *mob* @s.whatsapp.net")
-《«₌₌ *PIKU* ₌₌»》` }
+《«₌₌ *Pikachu* ₌₌»》` }
             )
         }
         const key = parsedArgs.joined.toLowerCase()
