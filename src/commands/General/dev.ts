@@ -38,7 +38,7 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─️⌜COMMANDS FOR MODS⌝
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: Pikachu⚡
+│⋊ ɴᴀᴍᴇ: Pikachu ⚡
 ╰────────────┘                            \n`
             const keys = Object.keys(categories)
             for (const key of keys)
