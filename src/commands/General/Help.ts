@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─「check guide command *,guide*」
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: PIKU
+│⋊ ɴᴀᴍᴇ: Pikachu ⚡
 │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
 │⋊ ᴏᴡɴᴇʀ: *${this.client.config.prefix}mods*
 ╰────────────                            \n\n`
@@ -55,7 +55,7 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `${text} 
 ┌────────────┈❅
-│   🧨 *PIKU*
+│   ⚡ *Pikachu*
 │   ©️ Synthesized Infinity Botto
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
