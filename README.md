@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://c.tenor.com/tZVpbfTIjNMAAAPo/pikachu.mp4" alt="Cara" border="0"></a>
+<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://c.tenor.com/ECr4aPQCyx0AAAAC/pikachu-cute.gif" alt="Cara" border="0"></a>
 
 # <h1><er>Pikachu is a repo of Cara</er></a></h1>
 
